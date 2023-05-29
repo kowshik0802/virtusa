@@ -1,0 +1,36 @@
+{
+    "travel": {
+        "tags": [
+            "flight",
+            "hotel",
+            "car rental"
+        ],
+        "patterns": [
+            "How can I book a flight?",
+            "What are the best hotels in [city]?",
+            "Where can I rent a car?"
+        ],
+        "responses": [
+            "You can book a flight by visiting our website or contacting our customer service.",
+            "Here are some highly recommended hotels in [city]: [hotel1], [hotel2], [hotel3].",
+            "You can rent a car from various car rental agencies located in [city]."
+        ]
+    },
+    "hospital": {
+        "tags": [
+            "appointment",
+            "emergency",
+            "medical insurance"
+        ],
+        "patterns": [
+            "How can I schedule a doctor's appointment?",
+            "What should I do in case of a medical emergency?",
+            "Does my insurance cover this procedure?"
+        ],
+        "responses": [
+            "You can schedule a doctor's appointment by calling our hospital's scheduling department.",
+            "In case of a medical emergency, please call 911 or visit the nearest emergency room.",
+            "To determine if your insurance covers a specific procedure, please contact your insurance provider."
+        ]
+    }
+}
